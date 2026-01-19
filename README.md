@@ -53,6 +53,8 @@ ToDoList.js
 [Header.js](src/components/Header.js)  
 [Main.js](src/components/Main.js)  
 [Footer.js](src/components/Footer.js)  
+これらをApp.jsで組み合わせる  
+![](images/kadai77_app.png)  
 結果  
 
 ![](images/kadai77_kekka.png)  
